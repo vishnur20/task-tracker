@@ -1,5 +1,5 @@
 {
-  "homepage": "http://vishnur20.github.io/task-tracker.git",
+  "homepage": "https://vishnur20.github.io/task-tracker",
   "name": "task-tracker",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "DBserver": "json-server -w db.json -p 5000",
+    "db-server": "json-server -w db.json -p 5000",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },

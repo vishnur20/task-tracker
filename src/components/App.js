@@ -128,7 +128,7 @@ class App extends React.Component {
 
                 <Router>
                     <Routes>                        
-                        <Route exact path='/' element={
+                        <Route exact path='/task-tracker' element={
                             <>
                                 <AddForm 
                                     onSave={this.saveTask} 
@@ -141,7 +141,7 @@ class App extends React.Component {
                             </>
                         } />
 
-                        <Route exact path='/about' element={<About />} />
+                        <Route exact path='/task-tracker/about' element={<About />} />
                     </Routes>
 
                     <Footer />

@@ -23,7 +23,7 @@ class Header extends React.Component {
                 <header className='header'>
                     <h1>Task Tracker</h1>
                     <Routes>
-                        <Route exact path='/' element={
+                        <Route exact path='/task-tracker' element={
                             <button 
                                 className='btn'
                                 style={btn_style} 

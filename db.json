@@ -4,7 +4,7 @@
       "id": 2,
       "text": "Go for Shopping",
       "day": "28th Dec 2021",
-      "reminder": false
+      "reminder": true
     },
     {
       "id": 3,

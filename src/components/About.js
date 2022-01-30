@@ -5,7 +5,7 @@ const About = () => {
         <div>
             <h2>Task Tracker</h2>
             <h2>Version: 1.0.0</h2>
-            <a href='/'>Go back</a>
+            <a href='/task-tracker'>Go back</a>
         </div>
     );
 }
